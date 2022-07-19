@@ -1,0 +1,5 @@
+D:\Programs\tryna-code\MathSol\MathSol\bin\publish\MathSol.exe
+D:\Programs\tryna-code\MathSol\MathSol\bin\publish\MathSol.dll
+D:\Programs\tryna-code\MathSol\MathSol\bin\publish\MathSol.deps.json
+D:\Programs\tryna-code\MathSol\MathSol\bin\publish\MathSol.runtimeconfig.json
+D:\Programs\tryna-code\MathSol\MathSol\bin\publish\MathSol.pdb
