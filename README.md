@@ -1,6 +1,7 @@
 # MathSol
 
-![image](https://user-images.githubusercontent.com/72604001/178073834-0f09a403-3dcc-4d57-8841-bd177cdbebf4.png)
+![MathSol-icon](https://user-images.githubusercontent.com/72604001/179838767-c623f3c4-a5bd-4677-9643-70376a96fd82.png)
+
 
 # What the project does 🤔
 📐 My attempt at making a program, that could solve every math problem I can solve. 
