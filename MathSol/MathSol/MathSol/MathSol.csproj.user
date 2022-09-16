@@ -4,7 +4,7 @@
     <_LastSelectedProfileId>D:\Programs\tryna-code\MathSol\MathSol\MathSol\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Update="Form1.cs">
+    <Compile Update="StartForm.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
